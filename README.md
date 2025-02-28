@@ -30,7 +30,7 @@ git clone https://github.com/bhaskartechie/DesignPatterns-with-MATLAB.git
 cd DesignPatterns-with-MATLAB
 ```
 ### **Run MATLAB Scripts**
-Open MATLAB and run the scripts to see the patterns in action.
+Open MATLAB and run the MATLAB live file ```DesignPatterns.mlx``` to see the patterns in action.
 
 ## **Contributing**
 Contributions are welcome! Feel free to submit **issues**, **feature requests**, or **pull requests**.
